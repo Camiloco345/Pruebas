@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: #333;
-    margin: 0px;
+    margin: 10px;
 }
 
 .container{
@@ -11,4 +11,8 @@ body{
     padding: 20px;
     border: 1px solid;
     margin: 0px auto;
+}
+
+.cabecera{
+    text-align: center;
 }
