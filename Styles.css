@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: #333;
-    margin: 0px;
+    margin: 10px;
 }
 
 .container{
@@ -11,4 +11,26 @@ body{
     padding: 20px;
     border: 1px solid;
     margin: 0px auto;
+}
+
+.cabecera{
+    margin: 0px auto;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 70%;
+    background-color: blue;
+    color: aliceblue;
+    box-shadow: -5px -5px gray;
+    border-radius: 5px;
+}
+
+.cabecera:hover{
+    margin: 0px auto;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 70%;
+    background-color: blue;
+    color: aliceblue;
+    box-shadow: 3px 3px gray;
+    border-radius: 5px;
 }
