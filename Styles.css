@@ -41,3 +41,15 @@ body{
     box-shadow: 3px 3px gray;
     border-radius: 5px;
 }
+
+.footer{
+    width: 70%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.footer_container{
+    background-color: aqua;
+    border: solid;
+    padding-top: auto;
+}
